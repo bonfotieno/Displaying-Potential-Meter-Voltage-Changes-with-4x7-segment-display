@@ -1,5 +1,5 @@
 # Displaying-Potential-Meter-Voltage-Changes-with-4x7-segment-display
-Arduino project for working with Potential Meter with 4x7 segment display to display voltage changes
+Arduino project for working with Potential Meter with 4x7 segment display to display voltage changes.<br/>
 Connect as follows: 
 #### for 4x7 segment display
 D4 => pin 4
