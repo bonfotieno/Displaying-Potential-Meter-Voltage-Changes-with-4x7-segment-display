@@ -17,5 +17,5 @@ decimal => pin 13;
 
 #### Potential Meter
 Connects to analog pin A3
-#### 
+#### In action
 ![in action](https://github.com/bonfotieno/Displaying-Potential-Meter-Voltage-Changes-with-4x7-segment-display/blob/main/in_action.gif)
